@@ -1,1 +1,1 @@
-# website-element-layout-exercises
+# single-price-grid-component
